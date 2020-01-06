@@ -30,6 +30,11 @@ class MusicLibraryController
         
         when "list artists"
           list_artists
+          
+        when "list genres"
+          list_genres
+          
+        when
       end
     end
   end
