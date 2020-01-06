@@ -67,7 +67,7 @@ class MusicLibraryController
     
     songs = Song.all
     
-    if songs.
+    if songs.length.include?
   end
   
   
