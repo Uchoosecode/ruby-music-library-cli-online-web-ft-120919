@@ -34,7 +34,6 @@ class MusicLibraryController
         when "list genres"
           list_genres
           
-        when
       end
     end
   end
