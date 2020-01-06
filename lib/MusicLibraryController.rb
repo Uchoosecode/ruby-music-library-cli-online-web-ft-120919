@@ -24,6 +24,10 @@ class MusicLibraryController
       
       input = gets.strip
     end
+    
+      case input
+        
+      end
   end
      
   def list_songs
