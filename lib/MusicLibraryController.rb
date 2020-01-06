@@ -23,11 +23,11 @@ class MusicLibraryController
       puts "What would you like to do?"
       
       input = gets.strip
-    end
     
       case input
         
-      
+      end
+    end
   end
      
   def list_songs
